@@ -1,0 +1,8 @@
+.Python
+env
+bin
+lib
+local
+include
+.DS_Store
+.pyc
